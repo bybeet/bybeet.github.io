@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cold Espresso</title>
+    <link>https://www.bybeet.github.com/post/index.xml</link>
+    <description>Recent content in Posts on Cold Espresso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Jan 2017 11:25:09 -0700</lastBuildDate>
+    <atom:link href="https://www.bybeet.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Caps Lock is a garbage key</title>
+      <link>https://www.bybeet.github.com/post/caps_lock_is_a_garbage_key/</link>
+      <pubDate>Sun, 22 Jan 2017 11:25:09 -0700</pubDate>
+      
+      <guid>https://www.bybeet.github.com/post/caps_lock_is_a_garbage_key/</guid>
+      <description>
+
+&lt;p&gt;I am a huge fan of keyboards and love crazy layouts (typically to my detriment).
+It important to optimize for efficiency and ergonomics.
+This was my motivation to learn Colemak and to build an Ergodox.
+The biggest improvement that you can make to your workflow doesn&amp;rsquo;t require spending hundreds on a new keyboard or spend weeks rewiring your muscle memory for a new keyboard layout.
+It&amp;rsquo;s something that you can do in the next two minutes and it won&amp;rsquo;t get in your way as you become accustomed to the new change.
+Get rid of your caps lock key.&lt;/p&gt;
+
+&lt;p&gt;The caps lock key originates from type writers, where &amp;ldquo;Because the shift key mechanism on a mechanical typewriter requires more force to operate and is usually operated by the little finger on the left hand, it was difficult to hold the shift down for more than two or three consecutive strokes, therefore the introduction of the Shift lock key also helped out people with disabilities who could not hold down more than one key at a time.&amp;rdquo; (&lt;a href=&#34;https://en.wikipedia.org/wiki/Caps_lock#History&#34;&gt;Wikipedia&lt;/a&gt;).
+Its purpose is outdated, and in modern times caps lock is most frequently utilized by people on the internet who VIEW IT AS A WAY TO GET THEIR POINT ACROSS. I HAVE ALWAYS WANTED TO BE ABLE TO YELL ON THE INTERNET. THANK YOU CAPS LOCK.
+If you do need to scream, you can hold down the shift key while you type and contemplate your life decisions.&lt;/p&gt;
+
+&lt;p&gt;The caps lock key has a number of attributes that make it a high value key: the location on the home row, easy to reach, and a big keycap.
+All of these benefits are wasted on the key that does not need to exist and has limited use in most everyone&amp;rsquo;s day to day typing.
+Here&amp;rsquo;s what I recommend, remap your caps lock key to either control or escape, whichever fits your workflow better.
+For the past five years I have had my caps lock key function as an escape key, primarily because I use vim for text editing.
+Being able to jump between vim modes with an easier motion has made my life better.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/escape_in_the_corner.gif&#34; alt=&#34;Escape key in the corner&#34; /&gt;&lt;/p&gt;
+
+&lt;p style=text-align:center;&gt;vs&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/escape_as_caps_lock.gif&#34; alt=&#34;Escape key as caps lock&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;how-can-i-make-this-change&#34;&gt;How can I make this change?&lt;/h1&gt;
+
+&lt;p&gt;I said it would only take a couple of minutes to do this. I lied. It&amp;rsquo;ll take more like 30 seconds. Here&amp;rsquo;s how to make the change on the latest version of macOS.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Open &lt;code&gt;System Preferences&lt;/code&gt; and navigate to the keyboard settings.&lt;/li&gt;
+&lt;li&gt;Click the &lt;code&gt;Keyboard&lt;/code&gt; tab, then the &lt;code&gt;Modifier Keys...&lt;/code&gt; button.&lt;/li&gt;
+&lt;li&gt;Change &lt;code&gt;Caps Lock&lt;/code&gt; to &lt;code&gt;Escape&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;???&lt;/li&gt;
+&lt;li&gt;Profit&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/keyboard_settings.gif&#34; alt=&#34;Changing caps lock on macOS&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;note&#34;&gt;Note&lt;/h2&gt;
+
+&lt;p&gt;If you use multiple keyboards you&amp;rsquo;ll have to make this change for every keyboard.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/multiple_keyboard_settings.png&#34; alt=&#34;Multiple keyboards attached to the computer&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Not great.
+If this fits your use case, then use the program &lt;a href=&#34;https://github.com/tekezo/Karabiner-Elements&#34;&gt;Karabiner-Elements&lt;/a&gt; to change the overall system behavior for caps lock.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
