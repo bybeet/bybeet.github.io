@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Cold Espresso</title>
-    <link>https://www.bybeet.github.com/post/index.xml</link>
+    <link>https://bybeet.github.com/post/index.xml</link>
     <description>Recent content in Posts on Cold Espresso</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 22 Jan 2017 11:25:09 -0700</lastBuildDate>
-    <atom:link href="https://www.bybeet.github.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bybeet.github.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Caps Lock is a garbage key</title>
-      <link>https://www.bybeet.github.com/post/caps_lock_is_a_garbage_key/</link>
+      <link>https://bybeet.github.com/post/caps_lock_is_a_garbage_key/</link>
       <pubDate>Sun, 22 Jan 2017 11:25:09 -0700</pubDate>
       
-      <guid>https://www.bybeet.github.com/post/caps_lock_is_a_garbage_key/</guid>
+      <guid>https://bybeet.github.com/post/caps_lock_is_a_garbage_key/</guid>
       <description>
 
 &lt;p&gt;I am a huge fan of keyboards and love crazy layouts (typically to my detriment).
@@ -34,11 +34,11 @@ Here&amp;rsquo;s what I recommend, remap your caps lock key to either control or
 For the past five years I have had my caps lock key function as an escape key, primarily because I use vim for text editing.
 Being able to jump between vim modes with an easier motion has made my life better.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/escape_in_the_corner.gif&#34; alt=&#34;Escape key in the corner&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bybeet.github.com/images/caps_lock/escape_in_the_corner.gif&#34; alt=&#34;Escape key in the corner&#34; /&gt;&lt;/p&gt;
 
 &lt;p style=text-align:center;&gt;vs&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/escape_as_caps_lock.gif&#34; alt=&#34;Escape key as caps lock&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bybeet.github.com/images/caps_lock/escape_as_caps_lock.gif&#34; alt=&#34;Escape key as caps lock&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;how-can-i-make-this-change&#34;&gt;How can I make this change?&lt;/h1&gt;
 
@@ -52,13 +52,13 @@ Being able to jump between vim modes with an easier motion has made my life bett
 &lt;li&gt;Profit&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/keyboard_settings.gif&#34; alt=&#34;Changing caps lock on macOS&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bybeet.github.com/images/caps_lock/keyboard_settings.gif&#34; alt=&#34;Changing caps lock on macOS&#34; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;note&#34;&gt;Note&lt;/h2&gt;
 
 &lt;p&gt;If you use multiple keyboards you&amp;rsquo;ll have to make this change for every keyboard.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://www.bybeet.github.com/images/caps_lock/multiple_keyboard_settings.png&#34; alt=&#34;Multiple keyboards attached to the computer&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://bybeet.github.com/images/caps_lock/multiple_keyboard_settings.png&#34; alt=&#34;Multiple keyboards attached to the computer&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Not great.
 If this fits your use case, then use the program &lt;a href=&#34;https://github.com/tekezo/Karabiner-Elements&#34;&gt;Karabiner-Elements&lt;/a&gt; to change the overall system behavior for caps lock.&lt;/p&gt;
